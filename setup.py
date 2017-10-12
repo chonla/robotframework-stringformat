@@ -100,4 +100,6 @@ setup(
     # pip to create the appropriate form of executable for the target platform.
     entry_points={
     },
+
+    python_requires='>=2.6, <4',
 )
