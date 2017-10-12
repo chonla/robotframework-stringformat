@@ -1,5 +1,5 @@
 *** Settings ***
-Library    ./robotframework-stringformat/formatter.py
+Library    StringFormat
 
 *** Test Cases ***
 Test Format

@@ -1,0 +1,8 @@
+.vscode/
+build/
+dist/
+robotframework_stringformat.egg*/
+log.html
+output.xml
+report.html
+__pycache__/
