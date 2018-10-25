@@ -1,6 +1,5 @@
 *** Settings ***
 Library    StringFormat
-Library    String
 
 *** Test Cases ***
 Test Format
