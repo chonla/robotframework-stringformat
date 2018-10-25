@@ -1,6 +1,6 @@
 class StringFormat(object):
-  def format_string(self, pattern, *args):
-    return pattern.format(*args)
+  def format_string(self, pattern, *args, **kwargs):
+    return pattern.format(*args, **kwargs)
 
 # To create distributable package:
 #
